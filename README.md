@@ -1,6 +1,6 @@
-Udemy - BootStrap Practice Exercice by Angela Yu 
-https://www.udemy.com/course/the-complete-web-development-bootcamp/
+# Projet : Tinder pour chats
+# Rendu projet
+![Aperçu du projet](/apercu.png "Aperçu")
 
-TinCat Starting Files
-
-![Aperçu du projet](/apercu.png "Aperçu").
+# Source : formation en ligne
+[Udemy - BootStrap Practice Exercice by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
